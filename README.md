@@ -11,7 +11,7 @@ Requirement:
 
 Input format:
 ======
-We transform the original data into pkl format, if you want the tranform code, please concat me.
+
 
 
 
