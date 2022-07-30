@@ -1,5 +1,4 @@
-Neural Collective Entity Linking Based on Recurrent Random Walk Network Learning 
-====
+A Multi-angle Bidirectional Interaction Model for Entity Linking
 
 Models and results can be found at our IJCAI 2019 paper [Neural Collective Entity Linking Based on Recurrent Random Walk Network Learning]. It achieves the state-of-the-art result on EL task.
 
@@ -31,13 +30,3 @@ Global:
 	python net_global_train.py --cuda_device 0 --nohup 0.5_0.1_3 --weight_decay 1.28e-5 --LR 0.0005 --local_model_loc model_loc/local/local_regular_new1.938.pkl --global_model_loc model_loc/global/global_model --random_k 3 --lamda 0.5 --flag 4:3:1 --gama 0.1 --batch 200 --epoch 25
 
 
-Cite: 
-========
-Please cite our IJCAI 2019 paper:
-
-    @article{xue2018,  
-     title={Neural Collective Entity Linking Based on Recurrent Random Walk Network Learning },  
-     author={Mengge Xue, Weiming Cai, Jinsong Su and Linfeng Song, Yubin Ge, Yubao Liu, Bin Wang},  
-     booktitle={The Program Committee of the 28th International Joint Conference on Artificial Intelligence (IJCAI-19)},
-     year={2019}  
-    }
