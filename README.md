@@ -1,6 +1,6 @@
 A Multi-angle Bidirectional Interaction Model for Entity Linking
 
-Models and results can be found at our IJCAI 2019 paper [Neural Collective Entity Linking Based on Recurrent Random Walk Network Learning]. It achieves the state-of-the-art result on EL task.
+
 
 Details will be updated soon.
 
@@ -13,11 +13,7 @@ Input format:
 ======
 We transform the original data into pkl format, if you want the tranform code, please concat me.
 
-pkl data location:
-======
-link:https://pan.baidu.com/s/17tHxyLAMqdOTozmnQsMQ6w 
 
-Fetch Code:kwvn 
 
 How to run the code?
 ====
